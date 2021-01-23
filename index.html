@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h2 class="title"> WEATHER FORECAST </h2>
+    <div class="card">
+        <div class="search-bar">
+            <input type="search" id="search" spellcheck="false" placeholder="Search for a city">
+            <button id ="weather-search">
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+        <div class= "weather">
+            <div id="names"> </div>
+            <div id="date"></div>
+            <img src="" alt="" id="icon" />
+            <div id="description"></div>
+            <div id="humidity"></div>
+            <div id="wind"></div>
+        </div>
+        <div class="weather-2">
+            <div id= "temp"></div>
+            <div id= "highlow"></div>
+        </div>
+    </div>
+   
+    <script src="scripts.js"></script>
+</body>
+</html>
