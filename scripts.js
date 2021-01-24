@@ -8,7 +8,6 @@ function bindButtons() {
 		var req = new XMLHttpRequest();
 		var appID = "&appid=b5712042b6cb14edb813c3ea344bfb18";         
         var city = document.getElementById("search").value;
-        console.log("search");
         var payload;
         if(city)
 		{
