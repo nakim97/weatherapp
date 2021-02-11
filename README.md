@@ -9,8 +9,9 @@ HTML, CSS , Vanilla Javascript, AJAX , Restful API
 
 The following  features are implemented:
 
-- [X] 
-- [X] App Icon taken from free assets 
+- [X] Uses OpenWeatherMap API to  asynchronously retrieve weather data such as the current temperature, weather description, icon , humidity level, wind speed, min/max temp
+- [X] Clean and Responsive User Interface 
+- [X] Background Wallpaper changes based on weather description (UNSPLASH)
 
 ## DEMO 
 
