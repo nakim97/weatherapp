@@ -1,25 +1,15 @@
 # WEATHER APP 
-This application is a 
+This project is an implementation of a simple Weather App. Users can enter the name of a city and receive an output of weather data.
+The purpose of this project was to practice working with AJAX and fetching APIs.
 
-
+## Tech Stack
+HTML, CSS , Vanilla Javascript, AJAX , Restful API
 
 ## Features
 
-The following **required** functionality is complete:
+The following  features are implemented:
 
-* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [X] Simple Launch Screen with App Name and Logo ($)
+- [X] 
 - [X] App Icon taken from free assets 
 
 ## DEMO 
