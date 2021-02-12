@@ -3,7 +3,7 @@ This project is an implementation of a simple Weather App. Users can enter the n
 The purpose of this project was to practice working with AJAX and fetching APIs.
 
 ## Tech Stack
-HTML, CSS , Vanilla Javascript, AJAX , Restful API
+HTML, CSS , Vanilla Javascript, AJAX , API
 
 ## Features
 
@@ -15,3 +15,4 @@ The following  features are implemented:
 
 ## DEMO 
 
+https://weatherapp-nakim97.netlify.app/
