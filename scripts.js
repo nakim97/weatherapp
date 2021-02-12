@@ -11,7 +11,7 @@ function bindButtons() {
         var payload;
         if(city)
 		{
-            payload = "http://api.openweathermap.org/data/2.5/weather?q=" + city  + appID + '&units=imperial';      
+            payload = "https://api.openweathermap.org/data/2.5/weather?q=" + city  + appID + '&units=imperial';      
         }
 		req.open("GET", payload, true);      
 		req.send();
